@@ -3,10 +3,11 @@ A tiny utility that prints certain values in perfect columns adjusted to the lef
 
 ## Preview
 
-1     10    7    abb 
-22    200   88   Adxs 
-333   3000  999 
-4444        1 
+1     10    7    abb   
+22    200   88   Adxs  
+333   3000  999        
+4444        1          
+
 
 ## Usage
 Edit the file's list variable (columns) to the wanted data.
