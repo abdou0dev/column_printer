@@ -3,6 +3,8 @@ A tiny utility that prints certain values in perfect columns adjusted to the lef
 
 ## Preview
 
+Download the README.md file to your system to see the real preview (not displayed correctly in Github)
+
 1     10    7    abb   
 22    200   88   Adxs  
 333   3000  999        
